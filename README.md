@@ -7,8 +7,12 @@ https://www.udemy.com/deeplearning/
 In particular, right now the following programs are present:
 
 * ANN Clients Bank:
+   
+   The programs is implemented in Python 3 using Tensorflow and Keras. The main goal is customer churn prediction in a Bank. The Hyperparameters optimization is done using GridSearch
 
-* Cat-Dog CNN:
+* Cat-Dog CNN: 
+
+The programs is implemented in Python 3 using Tensorflow and Keras. We implemented a CNN able to recognize between Cats or Dogs in a picture 
 
 * LSTM Stock Price:
 
