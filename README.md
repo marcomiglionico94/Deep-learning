@@ -14,6 +14,8 @@ In particular, right now the following programs are present:
 
 The programs is implemented in Python 3 using Tensorflow and Keras. We implemented a CNN able to recognize between Cats or Dogs in a picture 
 
+![alt text](Cat-Dog%20CNN/Image%20Example/dog.8.jpg)
+
 * LSTM Stock Price:
 
 * SOM:
