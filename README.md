@@ -17,6 +17,11 @@ In particular, right now the following programs are present:
    ![alt text](Cat-Dog%20CNN/Image%20Example/dog.8.jpg)
 
 * LSTM Stock Price:
+   The programs is implemented in Python 3 using Tensorflow and Keras. We implemented a Long Short Term Memory(LSTM) for Google Stock Price Prediction
+   
+   ![alt text](LSTM%20Stock%20Price/Images/GoogleStock.png)
+   
+  
 
 * SOM:
 
