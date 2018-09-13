@@ -16,3 +16,5 @@ In particular, right now the following programs are present:
 
   The programs is implemented in Python 3 using MiniSom implementation. The program use Australian Credit Approval data to find frauds thanks using Self Organizing Maps
   
+   ![alt text](SOM/Images/somimpl.png)
+  
