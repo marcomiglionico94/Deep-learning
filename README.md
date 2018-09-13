@@ -28,4 +28,7 @@ In particular, right now the following programs are present:
    ![alt text](SOM/Images/somimpl.png)
   
 * **SOM-ANN Fraud Detection**:
+
    The programs is implemented in Python 3 using MiniSom implementation, Tensorlfow and Keras. The program is an extension of SOM.py. It uses Australian Credit Approval data to find frauds thanks using Self Organizing Maps and then calculate the fraud probability using ANN.
+
+   ![alt text](SOM-ANN%20Fraud%20Detection/Images/Fraud%20Probability.png)
